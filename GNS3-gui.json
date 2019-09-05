@@ -1,0 +1,27 @@
+{
+    "name": "GNS3-gui",
+    "siteURL": "http://www.gns3.com",
+    "repoURL": "https://github.com/GNS3/gns3-gui",
+    "orgURL": "https://github.com/GNS3",
+    "size": "Medium",
+    "why": "When I was studing for my CCNA, I used GNS3 for my pratical experiance",
+    "version": "2.121",
+    "techUsed": "Python",
+    "numMainContributors": "23",
+    "monthly": {
+        "downloads": "57,797",
+        "PRs": "0",
+        "issues": "141"
+    },
+    "whatzit": "Network Similutator",
+    "license": "GNU GPL",
+    "since": "2008"
+}
+
+/*----------------------- explanation, not part of the JSON ---------------
+techUsed: the programming language used in this project
+siteURL: URL for the project itself
+orgURL: URL for the parent or umbrella organization
+numMainContributors: how many active & "significant" contributors does the project have
+whatzit: what is the project about?
+*/
