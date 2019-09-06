@@ -1,0 +1,27 @@
+{
+    "name": "docker.github.io",
+    "siteURL": "http://docker.io/",
+    "repoURL": "https://github.com/docker/docker.github.io",
+    "orgURL": "https://www.docker.com/",
+    "size": "Large",
+    "why": "I have used docker and I want to give someting back",
+    "version": "19.03.1",
+    "techUsed": "Javascript",
+    "numMainContributors": "3,091",
+    "monthly": {
+        "downloads": "",
+        "PRs": "109",
+        "issues": "541"
+    },
+    "whatzit": "Hosting docker containers and documentation about docker",
+    "license": "Apache-2.0",
+    "since": "March 13, 2013"
+}
+
+/*----------------------- explanation, not part of the JSON ---------------
+techUsed: the programming language used in this project
+siteURL: URL for the project itself
+orgURL: URL for the parent or umbrella organization
+numMainContributors: how many active & "significant" contributors does the project have
+whatzit: what is the project about?
+*/
