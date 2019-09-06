@@ -3,7 +3,7 @@
     "siteURL": "https://addons.mozilla.org/",
     "repoURL": "https://github.com/mozilla/addons-server",
     "orgURL": "https://www.mozilla.org/en-US/firefox/new/",
-    "size": "Large",
+    "size": "Medium",
     "why": "I use firefox, and they don't seem evil",
     "version": "2019.09.05",
     "techUsed": "Python",
