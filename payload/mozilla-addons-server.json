@@ -1,0 +1,27 @@
+{
+    "name": "mozilla addons-server",
+    "siteURL": "https://addons.mozilla.org/",
+    "repoURL": "https://github.com/mozilla/addons-server",
+    "orgURL": "https://www.mozilla.org/en-US/firefox/new/",
+    "size": "Medium",
+    "why": "I use firefox, and they don't seem evil",
+    "version": "2019.09.05",
+    "techUsed": "Python",
+    "numMainContributors": "493",
+    "monthly": {
+        "downloads": "n/a",
+        "PRs": "9",
+        "issues": "454"
+    },
+    "whatzit": "mozilla addon server",
+    "license": "BSD-3-Clause",
+    "since": "2015"
+}
+
+/*----------------------- explanation, not part of the JSON ---------------
+techUsed: the programming language used in this project
+siteURL: URL for the project itself
+orgURL: URL for the parent or umbrella organization
+numMainContributors: how many active & "significant" contributors does the project have
+whatzit: what is the project about?
+*/
