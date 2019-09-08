@@ -3,7 +3,7 @@
     "siteURL": "http://www.gns3.com",
     "repoURL": "https://github.com/GNS3/gns3-gui",
     "orgURL": "https://github.com/GNS3",
-    "size": "Medium",
+    "size": "Small",
     "why": "When I was studing for my CCNA, I used GNS3 for my pratical experiance",
     "version": "2.121",
     "techUsed": "Python",
